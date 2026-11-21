@@ -45,7 +45,6 @@ O código-fonte é aberto e o app não coleta dados pessoais.
 - **Limpeza Inteligente:** Temporários, Prefetch, Lixeira e RAM.
 - **Rede e Input Lag:** Ajustes de TCP, USB e prioridade de processos.
 - **Gaming:** Biblioteca de jogos, perfis e ajustes automáticos.
-- **Backup e Reversão:** Todas as otimizações salvam o estado anterior.
 
 ---
 
