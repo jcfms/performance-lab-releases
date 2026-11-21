@@ -11,7 +11,7 @@ O PC Performance Lab é uma plataforma desktop que reúne monitoramento de hardw
 [**Baixar a versão mais recente**](https://github.com/jcfms/performance-lab-releases/releases/latest)
 
 1. Acesse a página de releases.
-2. Na seção **Assets**, baixe o instalador (`Setup.exe`).
+2. Na seção **Assets**, baixe o instalador (`PerformanceLab-Setup.exe`).
 3. Execute o instalador como **Administrador**.
 
 ---
