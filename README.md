@@ -56,7 +56,3 @@ O código-fonte é aberto e o app não coleta dados pessoais.
 - **Comunicação:** Bridge C# ↔ JavaScript
 
 ---
-
-## 📄 Licença
-
-Este projeto é distribuído para uso pessoal e comercial. Consulte o arquivo `LICENSE` para mais detalhes.
