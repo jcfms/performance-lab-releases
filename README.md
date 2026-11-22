@@ -114,6 +114,6 @@ Encontrou um erro ou tem uma sugestão? [Abra uma issue](https://github.com/jcfm
 
 <div align="center">
 
-**PC Performance Lab** · Gratuito · Sem coleta de dados · Feito para Windows
+**PC Performance Lab**  · Sem coleta de dados · Feito para Windows
 
 </div>
