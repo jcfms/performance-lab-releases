@@ -8,7 +8,6 @@
 
 [![Versão](https://img.shields.io/github/v/release/jcfms/performance-lab-releases?label=versão&color=00b4d8)](https://github.com/jcfms/performance-lab-releases/releases/latest)
 [![Windows](https://img.shields.io/badge/Windows-10%20%7C%2011-0078d4?logo=windows)](https://github.com/jcfms/performance-lab-releases/releases/latest)
-[![Gratuito](https://img.shields.io/badge/gratuito-sim-22c55e)](https://github.com/jcfms/performance-lab-releases/releases/latest)
 [![Sem coleta de dados](https://img.shields.io/badge/dados-apenas%20local-f59e0b)](https://github.com/jcfms/performance-lab-releases#-dados-e-privacidade)
 
 [**⬇️ Baixar agora**](https://github.com/jcfms/performance-lab-releases/releases/latest) · [Notas da versão](https://github.com/jcfms/performance-lab-releases/releases) · [Reportar problema](https://github.com/jcfms/performance-lab-releases/issues)
