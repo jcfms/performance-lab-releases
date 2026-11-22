@@ -20,7 +20,7 @@
 
 | Dashboard | Otimização | Gaming |
 |:---------:|:----------:|:------:|
-| ![Dashboard em tempo real com score de otimização](assets/screenshot-dashboard.png) | ![30 ajustes individuais com indicador de impacto](assets/screenshot-otimizacao.png) | ![Biblioteca de jogos com perfis por título](assets/screenshot-gaming.png) |
+| ![Dashboard em tempo real com score de otimização](screenshot-dashboard.png) | ![30 ajustes individuais com indicador de impacto](screenshot-otimizacao.png) | ![Biblioteca de jogos com perfis por título](screenshot-gaming.png) |
 | Dashboard em tempo real | 30+ ajustes com impacto | Biblioteca e perfis por jogo |
 
 ---
